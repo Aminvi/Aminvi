@@ -5,12 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Al-ameen</h1>
-<img src="https://www.clipartmax.com/png/middle/249-2494037_open-working-on-computer-animated-gif.png" alt="Smiley face">
+
 <h3 align="center">A passionate FrontEnd Developer,</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminvi&label=Profile%20views&color=0e75b6&style=flat" alt="aminvi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminvi" alt="aminvi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amin_vis" target="blank"><img src="https://img.shields.io/twitter/follow/amin_vis?logo=twitter&style=for-the-badge" alt="amin_vis" /></a> </p>
 
@@ -37,5 +33,4 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminvi&show_icons=true&locale=en" alt="aminvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminvi&" alt="aminvi" /></p>
-
 
